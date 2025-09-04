@@ -2,6 +2,7 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.*;
 
+// Great job Elham!
 public class PokemonFight {
 
     public static int fight(List<Pokemon> arr, Comparator<Pokemon> c, int first, int second) {
